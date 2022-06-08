@@ -1,0 +1,7 @@
+export const CREATE_POST = 'POST/CREATE_POST';
+export const DELETE_POST = 'POST/DELETE_POST';
+export const CHANGE_POST = 'POST/CHANGE_POST';
+export const FILTER_POST = 'POST/FILTER_POST';
+export const CHANGE_FORM = 'FORM/CHANGE_FORM';
+export const CLEAR_FORM = 'FORM/CLEAR_FORM';
+export const EDIT_POST_FORM = 'FORM/EDIT_POST_FORM';
